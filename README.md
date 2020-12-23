@@ -98,6 +98,9 @@ https://desktop.github.com/
 https://www.gitkraken.com/
 
 ### 읽어볼만한 글
+- Pro Git  
+https://git-scm.com/book/ko/v2/
+
 - Understanding the GitHub flow  
 https://guides.github.com/introduction/flow/
 
