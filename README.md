@@ -52,7 +52,7 @@
     - Build Setup 
     - 테스트
 
-4. main 브랜치로 PR하거나 merge
+4. main 브랜치로 PR하거나 merge __(PR로 확정)__
 
 5. main 브랜치에서 릴리즈(tag) 실행
 
